@@ -7,7 +7,7 @@ const blogPosts = [
       "Découvrez les meilleurs smartphones du marché en 2025, classés selon leurs performances...",
     contenu:
       "En 2025, les smartphones offrent des performances extraordinaires. Dans ce classement, nous explorons les modèles les plus performants, leur autonomie, leur appareil photo, et leur rapport qualité/prix. Parmi les favoris, le Galaxy X12, le Pixel Ultra et l'iPhone Z dominent clairement la compétition...",
-    image: "/images/blog/smartphones-2025.jfif",
+    image: "/images/blog/smartphones-2025.jpg",
     date: "2025-01-12",
   },
   {
